@@ -327,3 +327,8 @@
 - Place: Hamburg, Germany
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
+
+#### Name: [Rae](https://github.com/threethirteen)
+- Place: USA
+- Bio: college student
+- GitHub: [threethirteen](https://github.com/threethirteen)
